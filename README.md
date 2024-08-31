@@ -19,5 +19,5 @@ I’m a passionate software developer with expertise in both frontend and backen
 ---
 
 #### **🔗 Connect with Me**
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mmutlucod/)](https://www.linkedin.com/in/mmutlucod/)  
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mustafamutluu/)](https://www.linkedin.com/in/mustafamutluu/)  
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/mmutlucod)](https://github.com/mmutlucod)
