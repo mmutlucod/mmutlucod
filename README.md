@@ -1,0 +1,5 @@
+![Mmutlu's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmutlucod&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmutlucod&layout=compact&theme=radical)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mmutlucod&theme=dracula)
+[![Linkedin Badge](https://img.shields.io/badge/-Mustafa%20Mutlu-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mmutlucod/)](https://www.linkedin.com/in/mmutlucod/)
+[![GitHub Badge](https://img.shields.io/badge/-mmutlucod-black?style=flat&logo=GitHub&logoColor=white&link=https://github.com/mmutlucod)](https://github.com/mmutlucod)
