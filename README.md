@@ -23,6 +23,8 @@ Hello, I'm Mustafa Mutlu, a software developer with experience in both frontend 
 
 **Database & Tools:**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -34,18 +36,14 @@ Hello, I'm Mustafa Mutlu, a software developer with experience in both frontend 
 
 - 🛵 **Courier Tracking System** - Real-time GPS tracking with Socket.IO and MongoDB
 - 📱 **Video Calling App** - WebRTC peer-to-peer with Firebase push notifications  
-- 🛒 **E-commerce Platform** - Next.js & Supabase powered online store
-- 📦 **Delivery Management** - Full-stack React Native application
-
+- 🍕 **Aciktim - Food Ordering Platform** - Dynamic food ordering with secure authentication and real-time tracking
+- 🛒 **E-Commerce Platform** - Full-featured multi-vendor marketplace with seller and admin dashboards
+- 🏬 **Lycia Cosmetics E-Commerce** - Next.js & Supabase powered online store
+- 📦 **Delivery Management System** - Full-stack React Native application with GPS integration
+  
 ---
 
 ### **🔗 Connect with Me**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafamutluu/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mmutlucod)
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mmutlucod&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
-</div>
