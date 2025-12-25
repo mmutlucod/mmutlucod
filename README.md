@@ -1,5 +1,6 @@
-### **👋 Hi there! I'm Mustafa Mutlu**  
-I'm a passionate software developer with expertise in both frontend and backend technologies. I specialize in building dynamic and intuitive user interfaces with React and React Native, while also crafting robust backend systems using Node.js and .NET. My experience spans across multiple projects, where I've integrated cutting-edge technologies to deliver seamless solutions.
+### **👋 Hi there! I'm Mustafa Mutlu**
+
+Hello, I'm Mustafa Mutlu, a software developer with experience in both frontend and backend technologies. I build user-focused, scalable, and high-performance software solutions using React, React Native, Node.js, and .NET. I have implemented WebSocket and WebRTC integrations for real-time applications and optimized system performance and data access with Redis. I focus on creating dynamic, mobile-responsive interfaces while developing reliable and maintainable backend systems.
 
 ---
 
@@ -18,6 +19,7 @@ I'm a passionate software developer with expertise in both frontend and backend 
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 
 **Database & Tools:**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -28,27 +30,10 @@ I'm a passionate software developer with expertise in both frontend and backend 
 
 ---
 
-### **📊 GitHub Stats**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mmutlucod&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmutlucod&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
-</div>
-
----
-
-### **🔥 GitHub Streak**
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=mmutlucod&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
-
 ### **🚀 Featured Projects**
 
 - 🛵 **Courier Tracking System** - Real-time GPS tracking with Socket.IO and MongoDB
-- 📱 **Video Calling App** - WebRTC peer-to-peer with Firebase push notifications
+- 📱 **Video Calling App** - WebRTC peer-to-peer with Firebase push notifications  
 - 🛒 **E-commerce Platform** - Next.js & Supabase powered online store
 - 📦 **Delivery Management** - Full-stack React Native application
 
@@ -58,7 +43,6 @@ I'm a passionate software developer with expertise in both frontend and backend 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafamutluu/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mmutlucod)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ---
 
