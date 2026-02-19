@@ -1,4 +1,4 @@
-### **👋 Hi there! I'm Mustafa Mutlu**
+### ** Hi there! I'm Mustafa Mutlu**
 
 Hello, I'm Mustafa Mutlu, a software developer with experience in both frontend and backend technologies. I build user-focused, scalable, and high-performance software solutions using React, React Native, Node.js, and .NET. I have implemented WebSocket and WebRTC integrations for real-time applications and optimized system performance and data access with Redis. I focus on creating dynamic, mobile-responsive interfaces while developing reliable and maintainable backend systems.
 
